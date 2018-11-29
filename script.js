@@ -1,4 +1,4 @@
-let appId='89a21c3f9e1aede5da7495c854e04a0f';
+let appId='insert_api_key_here';
 let units= 'imperial';
 let searchMethod;
 
